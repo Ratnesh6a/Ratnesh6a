@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Synechron**
 
-- 🌱 I’m currently learning **MicroService**
+- 🌱 I’m currently learning **Full Stack Developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ratnesh6a](https://github.com/Ratnesh6a)
 
